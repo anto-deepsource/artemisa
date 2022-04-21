@@ -3,7 +3,7 @@ version = 1
 exclude_patterns = [
   "**/jquery*.js",
   "**/bootstrap*.js",
-  "**/elfinder*.js,
+  "**/elfinder*.js",
   "**/dhtmlSuite*.js"
 ]
 
